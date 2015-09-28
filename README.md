@@ -7,6 +7,7 @@ The first step before doing any work will always be to **fork** and then **clone
 Please follow [the guide to Getting Started With GitHub](https://gist.github.com/rbetina/22186869342fce3bec6b), and use it to fork and clone this repository that you are reading right now. You will always follow this same process to start and submit your work.
 
 Next, [follow this guide to tweaking your Sublime](https://gist.github.com/rbetina/d07e134223fde2ca4299) to make your life much easier as we move forward.
+##This part is now done
 
 ## Part 1: Review What We Did In Class
 
