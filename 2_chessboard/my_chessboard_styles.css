@@ -27,14 +27,13 @@ body {
 /* Chess Table Styling */
 
 .board {
-  margin-left: auto;
-  margin-right: auto;
+  margin: 36px auto;
   border: solid thick rgb(28,115,115);
 }
 
 .square {
   width: 72px;
-  height: 72px;
+  height: 70px;
   font-size: 48px;
   text-align: center;
   color: rgb(255,150,64);
